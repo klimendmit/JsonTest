@@ -1,6 +1,9 @@
-[
-  {
-    "latitude": 47.225556,
-    "longitude": 39.717442
+
+{
+  "posts": [
+    { "latitude": 47.225556, "longitude": 39.717442 }
+  ],
+  "profile": {
+    "name": "klimendmit"
   }
-]
+}

@@ -1,8 +1,9 @@
 
 {
-  "posts": [
-    { "latitude": 47.225556, "longitude": 39.717442 }
-  ],
+  "geom": {
+    "latitude": 47.225556,
+    "longitude": 39.717442
+  },
   "profile": {
     "name": "klimendmit"
   }

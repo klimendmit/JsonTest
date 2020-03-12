@@ -1,19 +1,57 @@
 {
   "geom": [
     { "id": 1,
+      "name": "мakuha"
       "latitude": 47.225556,
       "longitude": 39.717442 
     },
     { 
       "id": 2,
+      "name": "makuha"
       "latitude": 47.228872,
       "longitude": 39.742538 
+    },
+    { 
+      "id": 3,
+      "name": "bk"
+      "latitude": 47.222036,
+      "longitude": 39.716628 
+    },
+    { 
+      "id": 4,
+      "name": "bk"
+      "latitude": 47.218320,
+      "longitude": 39.708193 
+    },
+    { 
+      "id": 5,
+      "name": "kfc"
+      "latitude": 47.219519,
+      "longitude": 39.707291 
+    },
+    { 
+      "id": 6,
+      "name": "kfc"
+      "latitude": 47.222547,
+      "longitude": 39.717987 
+    },
+    { 
+      "id": 7,
+      "name": "makuha"
+      "latitude": 47.219784,
+      "longitude": 39.708135 
     }
+    
   ],
   "comments": [
     { "id": 1, "body": "o, i'm sorry", "geomId": 1 },
     { "id": 2, "body": "nice cock", "geomId": 1 },
-    { "id": 3, "body": "awesome balls", "geomId": 2 }
+    { "id": 3, "body": "awesome balls", "geomId": 2 },   
+    { "id": 4, "body": "bullsh*t", "geomId": 3 },
+    { "id": 5, "body": "perfect potato", "geomId": 4 },
+    { "id": 6, "body": "tasty chiken", "geomId": 5 },
+    { "id": 7, "body": "disgusting fries", "geomId": 6 },
+    { "id": 8, "body": "mef in toilet", "geomId": 7 }
   ],
   "profile": {
     "name": "klimendmit"

@@ -1,43 +1,43 @@
 {
   "geom": [
     { "id": 1,
-      "name": "мakuha"
+      "name": "мakuha",
       "latitude": 47.225556,
       "longitude": 39.717442 
     },
     { 
       "id": 2,
-      "name": "makuha"
+      "name": "makuha",
       "latitude": 47.228872,
       "longitude": 39.742538 
     },
     { 
       "id": 3,
-      "name": "bk"
+      "name": "bk",
       "latitude": 47.222036,
       "longitude": 39.716628 
     },
     { 
       "id": 4,
-      "name": "bk"
+      "name": "bk",
       "latitude": 47.218320,
       "longitude": 39.708193 
     },
     { 
       "id": 5,
-      "name": "kfc"
+      "name": "kfc",
       "latitude": 47.219519,
       "longitude": 39.707291 
     },
     { 
       "id": 6,
-      "name": "kfc"
+      "name": "kfc",
       "latitude": 47.222547,
       "longitude": 39.717987 
     },
     { 
       "id": 7,
-      "name": "makuha"
+      "name": "makuha",
       "latitude": 47.219784,
       "longitude": 39.708135 
     }
